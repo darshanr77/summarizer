@@ -1,3 +1,7 @@
 node_modules
 .envbackend/.env
 backend/.env
+backend/.env
+__pycache__/
+node_modules/
+.env
